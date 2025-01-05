@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em fevereiro de 2024e ja terminei o primeiro semestre. <br>Estou a procura de estagio na área, tenho interesse em seguir caminho como frontend, backend ou fullstack.
+Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em fevereiro de 2024e. <br>Estou a procura de estagio na área, tenho interesse em seguir caminho como frontend, backend ou fullstack.
 
 
 ## 🌐 Socials:
