@@ -8,7 +8,7 @@ Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em
 
 <img src="https://github.com/user-attachments/assets/acae2458-cb2a-4734-8114-803c9ee86bfc" width="120" alt="Python">
 <img src="https://github.com/user-attachments/assets/3e7cb406-fd13-4eb0-9b1e-1027f26ab55d" width="120" alt="Java">
-
+![226777](https://github.com/user-attachments/assets/9480901c-51c8-481d-bc9f-23185accc536)
 
 
 # 💻 Tech Stack:
