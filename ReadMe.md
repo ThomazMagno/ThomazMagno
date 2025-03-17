@@ -5,11 +5,10 @@ Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false"> 
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
-## 🌐 Socials:
-https://www.linkedin.com/in/thomaz-magno-java/
+
 <img src="https://github.com/user-attachments/assets/acae2458-cb2a-4734-8114-803c9ee86bfc" width="120" alt="Python">
-<img src="">
-![instagram](https://github.com/user-attachments/assets/ac7d4428-9012-49db-92a8-a20d72d4dcc7)
+<img src="https://github.com/user-attachments/assets/3e7cb406-fd13-4eb0-9b1e-1027f26ab55d" width="120" alt="Java">
+
 
 
 # 💻 Tech Stack:
