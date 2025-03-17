@@ -2,7 +2,6 @@
 Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em fevereiro de 2024e. <br>Estou a procura de estagio na área, tenho interesse em seguir caminho como frontend, backend ou fullstack. <br>Sou bem esforçado, gosto de desafios e trabalho em equipe, estou sempre estudando para cada dia mais ser mais completo, quero me tornar um Desenvolvedor FullStack de sucesso.
 
 ![](https://github-readme-stats.vercel.app/api?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
