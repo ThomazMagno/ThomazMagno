@@ -3,7 +3,7 @@ Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em
 
 <table>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
 
 ## 🌐 Socials:
 https://www.linkedin.com/in/thomaz-magno-java/
