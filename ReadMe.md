@@ -10,7 +10,7 @@ Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em
 <img src="https://github.com/user-attachments/assets/9480901c-51c8-481d-bc9f-23185accc536" width="120" alt="Java">
 <img src="https://github.com/user-attachments/assets/8baf41b8-49f2-4704-97bb-a605fb8f0194" width="170" alt="HTML">
 <img src="https://github.com/user-attachments/assets/ea916bb6-781e-4865-93e4-81dedf91c7d6" width="80" alt="CSS">
-<img src="https://github.com/user-attachments/assets/c4656877-276e-40ff-9e60-24e1a73d384e" width="120" alt="JavaScript">
+<img src="https://github.com/user-attachments/assets/c4656877-276e-40ff-9e60-24e1a73d384e" width="200" alt="JavaScript">
 
 
 
