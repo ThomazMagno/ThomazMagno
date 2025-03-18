@@ -1,7 +1,8 @@
 # 💫 About Me:
 Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em fevereiro de 2024e. <br>Estou a procura de estagio na área, tenho interesse em seguir caminho como frontend, backend ou fullstack. <br>Sou bem esforçado, gosto de desafios e trabalho em equipe, estou sempre estudando para cada dia mais ser mais completo, quero me tornar um Desenvolvedor FullStack de sucesso.
 
-<img src="https://github.com/user-attachments/assets/98351e64-a33c-47e6-aaf7-20f9025c7315" width="120" alt="Instagram">
+<img src="https://github.com/user-attachments/assets/98351e64-a33c-47e6-aaf7-20f9025c7315" width="120" alt="Instagram"> <img src="https://github.com/user-attachments/assets/d2e198b4-358e-4d44-904e-ef52cf474cd1" width="120" alt="Instagram">
+
 
 
 
