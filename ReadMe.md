@@ -16,7 +16,7 @@
 <img src="https://github.com/user-attachments/assets/dfc51645-f0b1-4804-991f-e136212ba5d4" width="150" alt="Instagram">
 </a>
         
-<a href="https://www.linkedin.com/in/thomaz-magno-java/" target="_blank" style="text-decoration: none"> 
+<a href="https://www.linkedin.com/in/thomaz-magno-java/" target="_blank" style="text-decoration: none">
 <img src="https://github.com/user-attachments/assets/aa6845f9-5484-4120-a7ce-6c9c8d1c300c" width="150" alt="Linkedin">
 </a>
        
