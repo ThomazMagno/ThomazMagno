@@ -10,7 +10,7 @@
     Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em fevereiro de 2024. <br>Estou a procura de estagio na área, tenho interesse em seguir caminho como frontend, backend ou fullstack. <br>Sou bem esforçado, gosto de desafios e trabalho em equipe, estou sempre estudando para cada dia mais ser mais completo, quero me tornar um Desenvolvedor FullStack de sucesso.<br><br>
   </p>
 
-<div>
+<div class="redesSociais">
 <a href="https://www.instagram.com/thomaz_magno/" target="_blank" style="text-decoration: none">
 <img src="https://github.com/user-attachments/assets/dfc51645-f0b1-4804-991f-e136212ba5d4" width="150" alt="Instagram"> 
 </a>
@@ -23,7 +23,7 @@
 <div>
 <h2> 📊 GitHub Stats:</h2>
 
-<table>
+<table class="stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false"> 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
