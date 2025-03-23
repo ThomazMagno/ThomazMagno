@@ -14,19 +14,16 @@
    
 <a href="https://www.instagram.com/thomaz_magno/" target="_blank" style="text-decoration: none">
 <img src="https://github.com/user-attachments/assets/dfc51645-f0b1-4804-991f-e136212ba5d4" width="150" alt="Instagram">
-</a>
+</a><br>
         
 <a href="https://www.linkedin.com/in/thomaz-magno-java/" target="_blank" style="text-decoration: none">
 <img src="https://github.com/user-attachments/assets/aa6845f9-5484-4120-a7ce-6c9c8d1c300c" width="150" alt="Linkedin">
-</a>
+</a><br>
 
 <a href="https://www.facebook.com/thomaz.magno1" target="_blank" style="text-decoration: none">
 <img src="https://github.com/user-attachments/assets/84d1249d-3db9-4a60-9bcc-d5c6d65ea03f" width="150" alt="Facebook">
 </a>
-
-![Instagram (4)](https://github.com/user-attachments/assets/84d1249d-3db9-4a60-9bcc-d5c6d65ea03f)
-
-       
+      
         
 </div>
 
