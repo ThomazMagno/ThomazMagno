@@ -10,7 +10,7 @@
     Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em fevereiro de 2024. <br>Estou a procura de estagio na área, tenho interesse em seguir caminho como frontend, backend ou fullstack. <br>Sou bem esforçado, gosto de desafios e trabalho em equipe, estou sempre estudando para cada dia mais ser mais completo, quero me tornar um Desenvolvedor FullStack de sucesso.<br><br>
   </p>
 
-<div class="redesSociais">
+<div>
 <a href="https://www.instagram.com/thomaz_magno/" target="_blank" style="text-decoration: none">
 <img src="https://github.com/user-attachments/assets/dfc51645-f0b1-4804-991f-e136212ba5d4" width="150" alt="Instagram"> 
 </a>
@@ -23,9 +23,16 @@
 <div>
 <h2> 📊 GitHub Stats:</h2>
 
-<table class="stats">
+<table>
+    <tr>
+        <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false"> 
+    </td>
+        <td>
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomazMagno&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+        </td>
+    </tr>
+</table>
 
 <h2> 💻 Tech Stack:</h2>
 
@@ -41,33 +48,6 @@
 [![](https://visitcount.itsvg.in/api?id=ThomazMagno&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </body>
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background-color: #f4f4f4;
-            padding: 20px;
-        }
-        .redesSociais {
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-            max-width: 600px;
-            margin: auto;
-        }
-        img {
-            width: 150px;
-            border-radius: 50%;
-            margin-bottom: 10px;
-        }
-        a {
-            color: #0073e6;
-            text-decoration: none;
-            font-weight: bold;
-        }
-    </style>
-
 </html>
 
 
