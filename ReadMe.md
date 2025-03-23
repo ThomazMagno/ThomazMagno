@@ -7,7 +7,10 @@
 <body>
     <h1>💫 About Me:</h1>
   <p>
-    Sou estudante em Técnologo de Analise e Desenvolvimento de Sistemas, comecei em fevereiro de 2024. <br>Estou a procura de estagio na área, tenho interesse em seguir caminho como frontend, backend ou fullstack. <br>Sou bem esforçado, gosto de desafios e trabalho em equipe, estou sempre estudando para cada dia mais ser mais completo, quero me tornar um Desenvolvedor FullStack de sucesso.<br><br>
+    I am a student in the Technologist program for Systems Analysis and Development, which I started in February 2024.
+I am looking for an internship in the field and am interested in pursuing a career as a frontend, backend, or fullstack developer.
+I am hardworking, enjoy challenges, and thrive in team environments. I am constantly studying to improve my skills and become a more well-rounded professional.
+My goal is to become a successful FullStack Developer.
   </p>
 
 <div>
