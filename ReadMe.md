@@ -14,6 +14,7 @@
         <p>📫 Entre em contato: <a href="mailto:seuemail@example.com">seuemail@example.com</a></p>
         <p>🔗 Conecte-se comigo: <a href="https://www.linkedin.com/in/SEULINKEDIN">LinkedIn</a></p>
     </div>
+    [![](https://visitcount.itsvg.in/api?id=ThomazMagno&icon=0&color=0)](https://visitcount.itsvg.in)
 </body>
 </html>
 
