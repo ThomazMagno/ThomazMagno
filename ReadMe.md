@@ -41,6 +41,33 @@
 [![](https://visitcount.itsvg.in/api?id=ThomazMagno&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </body>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .redesSociais {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+        a {
+            color: #0073e6;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+
 </html>
 
 
