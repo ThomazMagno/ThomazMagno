@@ -13,7 +13,7 @@
 <div>
    
 <a href="https://www.instagram.com/thomaz_magno/" target="_blank" style="text-decoration: none">
-<img src="https://github.com/user-attachments/assets/dfc51645-f0b1-4804-991f-e136212ba5d4" width="150" alt="Instagram" style="margin-rigth: 20px"> 
+<img src="https://github.com/user-attachments/assets/dfc51645-f0b1-4804-991f-e136212ba5d4" width="150" alt="Instagram" style="margin-rigth: 200px"> 
 </a>
         
 <a href="https://www.linkedin.com/in/thomaz-magno-java/" target="_blank" style="text-decoration: none"> 
