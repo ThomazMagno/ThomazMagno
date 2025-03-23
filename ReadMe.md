@@ -11,7 +11,7 @@
   </p>
 
 <div>
-   <h3> Redes Sociais</h3>
+   <h3> Redes Sociais:</h3>
 <a href="https://www.instagram.com/thomaz_magno/" target="_blank" style="text-decoration: none">
 <img src="https://github.com/user-attachments/assets/dfc51645-f0b1-4804-991f-e136212ba5d4" width="150" alt="Instagram">
 </a><br>
