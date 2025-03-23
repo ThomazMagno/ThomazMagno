@@ -12,15 +12,15 @@
 
 <div>
    <h3> Redes Sociais:</h3>
-<a href="https://www.instagram.com/thomaz_magno/" target="blank" style="text-decoration: none">
+<a href="https://www.instagram.com/thomaz_magno/" target="_blank" style="text-decoration: none">
 <img src="https://github.com/user-attachments/assets/dfc51645-f0b1-4804-991f-e136212ba5d4" width="150" alt="Instagram">
 </a><br>
         
-<a href="https://www.linkedin.com/in/thomaz-magno-java/" target="blank" style="text-decoration: none">
+<a href="https://www.linkedin.com/in/thomaz-magno-java/" target="_blank" style="text-decoration: none">
 <img src="https://github.com/user-attachments/assets/aa6845f9-5484-4120-a7ce-6c9c8d1c300c" width="150" alt="Linkedin">
 </a><br>
 
-<a href="https://www.facebook.com/thomaz.magno1" target="blank" style="text-decoration: none">
+<a href="https://www.facebook.com/thomaz.magno1" target="_blank" style="text-decoration: none">
 <img src="https://github.com/user-attachments/assets/6bfeeef3-2d8b-470f-8b12-21415479d50a" width="150" alt="Facebook">
 </a>
       
